@@ -13,6 +13,6 @@ Sidenote: obviously the Leaderboard toggle is not SRC variable. Disable it and t
 
 ## Contributors
 
-<a href="https://github.com/BlossomiShymae/Needlework.Net/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=BlossomiShymae/Needlework.Net" />
+<a href="https://github.com/Libella0/ZenMode/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Libella0/ZenMode" />
 </a>
